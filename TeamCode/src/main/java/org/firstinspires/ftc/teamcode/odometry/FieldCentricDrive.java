@@ -1,9 +1,3 @@
-/** This is the code used for the field-centric driving tutorial
- This is by no means a perfect code
- There are a number of improvements that can be made
- So, feel free to add onto this and make it better
- */
-
 package org.firstinspires.ftc.teamcode.odometry;
 
 import com.qualcomm.hardware.bosch.JustLoggingAccelerationIntegrator;
